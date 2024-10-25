@@ -1,2 +1,2 @@
-# badriyahs.github.io
-For dataviz assignment week8
+This website is for the Dataviz Week08 submission!
+Stay tuned!
